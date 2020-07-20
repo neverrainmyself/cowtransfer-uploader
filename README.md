@@ -1,4 +1,5 @@
 # cowTransfer-uploader
+## 请发送一个简单邮件到 info@cowtransfer.com 我希望加你微信，会在回复邮件中给出我的微信号的，谢谢
 <a title="Release" target="_blank" href="https://github.com/Mikubill/cowtransfer-uploader/releases"><img src="https://img.shields.io/github/release/Mikubill/cowtransfer-uploader.svg?style=flat-square&hash=c7"></a>
 <a title="Go Report Card" target="_blank" href="https://goreportcard.com/report/github.com/Mikubill/cowtransfer-uploader"><img src="https://goreportcard.com/badge/github.com/Mikubill/cowtransfer-uploader?style=flat-square"></a>
 
